@@ -1,3 +1,4 @@
+//to count the frequency of any character in a given string
 public class frequency {
     public static void main(String[] args) {
         String str="abacdardea";

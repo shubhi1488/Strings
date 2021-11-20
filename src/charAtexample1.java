@@ -1,3 +1,4 @@
+//finding all the odd position character in the string using conCat method
 import java.util.Scanner;
 
 public class charAtexample1 {

@@ -1,3 +1,7 @@
+/*Given two strings append them together(concatenation) and retrn the result.if the concatenation creates a double-char
+then omit one of the chars.
+sample :- s1=mark  s2=kate output - markate*/
+ */
 import com.sun.tools.javac.Main;
 
 import java.util.Scanner;

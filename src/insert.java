@@ -5,4 +5,4 @@ public class insert {
         sb.insert(1,"shubhi");
         System.out.println(sb);
     }
-}
+}//output:- hshubhiello
